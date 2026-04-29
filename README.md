@@ -5,7 +5,7 @@ A React + Vite project that uses the output of the FireFusion API (GeoJSON Featu
 The backend project can be found here https://github.com/InnovAIte-Deakin/InnovAIte_FireFusion_Project/tree/main/backend.
 
 How to use:
-1. Run `docker compose --profile up -d` in the root of the backend project.
+1. Run `docker compose --profile default up -d` in the root of the backend project.
 2. Run `npm run dev` in the root of this project
 3. Open `http://localhost:5173` in browser
 
